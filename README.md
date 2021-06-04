@@ -16,7 +16,7 @@ For this project, I am assuming that I am a Data Scientist for a supermarket in 
 ## Setup Instructions
 To make changes to my code, you can go ahead and fork my work.
 
-The following are links where you can get the data from: http://bit.ly/CarreFourDataset(PCA and feature selection), http://bit.ly/SupermarketDatasetII(association analysis) and http://bit.ly/CarreFourSalesDataset(Anomaly detection)
+The following are links where you can get the data from: http://bit.ly/CarreFourDataset (PCA and feature selection), http://bit.ly/SupermarketDatasetII (association analysis) and http://bit.ly/CarreFourSalesDataset (Anomaly detection)
 
 
 ## Technologies Used
