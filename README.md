@@ -2,7 +2,7 @@
 This repository contains 3 notebooks which contain my approach to performing PCA, anomaly detection, feature selection and association analysis for my personal project.
 
 ## Description
-Given that I am a Data Scientist for a supermarket in Kenya and are currently undertaking a project that will inform the marketing department on the most relevant marketing strategies that will result in the highest no. of sales (total price including tax). The project has been divided into four parts where I am to explore a recent marketing dataset by performing various unsupervised learning techniques and later providing recommendations based on your insights. These techiques include PCA, association analysis, feature selection and anomaly detection. My step by step analysis, insights and recommendations can all be found in the notebooks.
+For this project, I am assuming that I am a Data Scientist for a supermarket in Kenya who is currently undertaking a project that will inform the marketing department on the most relevant marketing strategies that will result in the highest no. of sales (total price including tax). The project has been divided into four parts where I am to explore a number of marketing datasets by performing various unsupervised learning techniques and later providing recommendations based on my insights. These techiques include PCA, association analysis, feature selection and anomaly detection. My step by step analysis, insights and recommendations can all be found in the notebooks.
 
 ## Experimental design
 - Problem Definition
